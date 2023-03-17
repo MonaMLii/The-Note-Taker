@@ -1,3 +1,5 @@
+https://img.shields.io/badge/<license>-<Unlicensed>-<ff69b4>
+
 # The Note Taker
 
 ## Description
@@ -37,4 +39,8 @@ npm i
 Unlicensed
 
 ## Example
+
+<img width="1702" alt="Screenshot 2023-03-17 at 11 57 14 AM" src="https://user-images.githubusercontent.com/89316044/225994311-aa8ca17e-562b-4b74-986b-42cefc63287b.png">
+
+<img width="1705" alt="Screenshot 2023-03-17 at 11 58 02 AM" src="https://user-images.githubusercontent.com/89316044/225994328-ef396823-5664-4cd5-ae14-e831f8e59d7d.png">
 
