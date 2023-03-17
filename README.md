@@ -1,4 +1,4 @@
-https://img.shields.io/badge/license-Unlicensed-ff69b4 
+[![License](https://img.shields.io/badge/License-Unlicensed-ff69b4.svg)](https://opensource.org/licenses/Unlicensed)
 
 # The Note Taker
 
