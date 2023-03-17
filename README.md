@@ -1,4 +1,4 @@
-https://img.shields.io/badge/<license>-<Unlicensed>-<ff69b4>
+https://img.shields.io/badge/license-Unlicensed-ff69b4 
 
 # The Note Taker
 
